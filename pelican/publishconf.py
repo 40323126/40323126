@@ -7,8 +7,8 @@ from __future__ import unicode_literals
 
 import os
 
-AUTHOR = 'KMOL'
-SITENAME = '2015FALL KMOL 課程'
+AUTHOR = '40323126'
+SITENAME = '2015FALL 40323126 KMOL 課程'
 SITEURL = ''
 
 PATH = 'content'
@@ -25,9 +25,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),
-         (' my github', 'https://github.com/40323103/40323103'),(' 班級網頁', 'http://2015fallhw.github.io/2015fallcadpa/user/40323103/'))
+LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),('2015作業主業', 'http://2015fallhw.github.io/2015fallcadpa/'),('我的github', 'https://github.com/40323126/40323126/tree/gh-pages'),('我的協同網站', 'http://2015fallhw.github.io/2015fallcadpa/user/40323126/'))
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
